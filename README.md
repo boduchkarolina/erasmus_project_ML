@@ -35,7 +35,7 @@ The model from TensorFlow and Keras will be embedded to the Web Application in H
 
 
 ## Features
-
+Show the differences between big model and MobileNet model(small) in web app
 
 ### To-do list:
 
